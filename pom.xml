@@ -10,10 +10,10 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.starwars</groupId>
-	<artifactId>Starwars-API</artifactId>
+	<artifactId>Users-API</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Starwars-API</name>
-	<description>Starwars API</description>
+	<name>Users-API</name>
+	<description>Users API</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
